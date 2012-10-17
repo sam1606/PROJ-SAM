@@ -1,0 +1,43 @@
+body
+{
+  background-color:#ffffff;
+}
+
+div
+{
+	float:left;
+	width:500px;
+	height:300px;
+	border:dotted 1px #cccccc;	
+	text-align:center;
+	border-radius:5px;
+}
+
+div.c1:hover
+{
+	background-color:#ea8d11;
+	color:#ffffff;
+}
+
+div.c2:hover
+{
+	background-color:#5ab10c;
+	color:#ffffff;
+}
+
+div.c3:hover
+{
+	background-color:#0296f9;
+	color:#ffffff;
+}
+
+div.c4:hover
+{
+	background-color:#f0d617;
+	color:#ffffff;
+}
+
+h1
+{
+	font-family:helvatica, sans serif;
+}
